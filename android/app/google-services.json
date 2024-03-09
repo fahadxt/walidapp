@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294610205280",
+    "project_id": "walidapp-8c3dd",
+    "storage_bucket": "walidapp-8c3dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294610205280:android:0cb57a6a95268d91286105",
+        "android_client_info": {
+          "package_name": "com.fdfdx.walidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdYxZSi3LHRO1IS2_LuRP5-FLjsTsXWxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294610205280:android:a3967a6bb81bf65f286105",
+        "android_client_info": {
+          "package_name": "com.mycompany.walidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdYxZSi3LHRO1IS2_LuRP5-FLjsTsXWxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
